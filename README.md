@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+![Night View](./profile-3d-contrib/profile-night-view.svg)
